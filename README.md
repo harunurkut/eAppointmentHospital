@@ -7,8 +7,6 @@ Bu proje, bir hastane için geliştirilmiş **eAppointment** isimli bir online r
 - [Özellikler](#özellikler)
 - [Kurulum](#kurulum)
 - [Kullanım](#kullanım)
-- [Katkıda Bulunma](#katkıda-bulunma)
-- [Lisans](#lisans)
 - [İletişim](#iletişim)
 
 ## Özellikler
