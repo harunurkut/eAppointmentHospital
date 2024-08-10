@@ -1,0 +1,12 @@
+G:\HARUN_YAZILIM\Projeler\eAppointment\eAppointmentServer\eAppointmentServer.Domain\obj\Debug\net8.0\eAppointmentServer.Domain.csproj.AssemblyReference.cache
+G:\HARUN_YAZILIM\Projeler\eAppointment\eAppointmentServer\eAppointmentServer.Domain\obj\Debug\net8.0\eAppointmentServer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\HARUN_YAZILIM\Projeler\eAppointment\eAppointmentServer\eAppointmentServer.Domain\obj\Debug\net8.0\eAppointmentServer.Domain.AssemblyInfoInputs.cache
+G:\HARUN_YAZILIM\Projeler\eAppointment\eAppointmentServer\eAppointmentServer.Domain\obj\Debug\net8.0\eAppointmentServer.Domain.AssemblyInfo.cs
+G:\HARUN_YAZILIM\Projeler\eAppointment\eAppointmentServer\eAppointmentServer.Domain\obj\Debug\net8.0\eAppointmentServer.Domain.csproj.CoreCompileInputs.cache
+G:\HARUN_YAZILIM\Projeler\eAppointment\eAppointmentServer\eAppointmentServer.Domain\bin\Debug\net8.0\eAppointmentServer.Domain.deps.json
+G:\HARUN_YAZILIM\Projeler\eAppointment\eAppointmentServer\eAppointmentServer.Domain\bin\Debug\net8.0\eAppointmentServer.Domain.dll
+G:\HARUN_YAZILIM\Projeler\eAppointment\eAppointmentServer\eAppointmentServer.Domain\bin\Debug\net8.0\eAppointmentServer.Domain.pdb
+G:\HARUN_YAZILIM\Projeler\eAppointment\eAppointmentServer\eAppointmentServer.Domain\obj\Debug\net8.0\eAppointmentServer.Domain.dll
+G:\HARUN_YAZILIM\Projeler\eAppointment\eAppointmentServer\eAppointmentServer.Domain\obj\Debug\net8.0\refint\eAppointmentServer.Domain.dll
+G:\HARUN_YAZILIM\Projeler\eAppointment\eAppointmentServer\eAppointmentServer.Domain\obj\Debug\net8.0\eAppointmentServer.Domain.pdb
+G:\HARUN_YAZILIM\Projeler\eAppointment\eAppointmentServer\eAppointmentServer.Domain\obj\Debug\net8.0\ref\eAppointmentServer.Domain.dll

@@ -1,0 +1,15 @@
+G:\HARUN_YAZILIM\Projeler\eAppointment\eAppointmentServer\eAppointmentServer.Application\bin\Debug\net8.0\eAppointmentServer.Application.deps.json
+G:\HARUN_YAZILIM\Projeler\eAppointment\eAppointmentServer\eAppointmentServer.Application\bin\Debug\net8.0\eAppointmentServer.Application.dll
+G:\HARUN_YAZILIM\Projeler\eAppointment\eAppointmentServer\eAppointmentServer.Application\bin\Debug\net8.0\eAppointmentServer.Application.pdb
+G:\HARUN_YAZILIM\Projeler\eAppointment\eAppointmentServer\eAppointmentServer.Application\obj\Debug\net8.0\eAppointmentServer.Application.csproj.AssemblyReference.cache
+G:\HARUN_YAZILIM\Projeler\eAppointment\eAppointmentServer\eAppointmentServer.Application\obj\Debug\net8.0\eAppointmentServer.Application.GeneratedMSBuildEditorConfig.editorconfig
+G:\HARUN_YAZILIM\Projeler\eAppointment\eAppointmentServer\eAppointmentServer.Application\obj\Debug\net8.0\eAppointmentServer.Application.AssemblyInfoInputs.cache
+G:\HARUN_YAZILIM\Projeler\eAppointment\eAppointmentServer\eAppointmentServer.Application\obj\Debug\net8.0\eAppointmentServer.Application.AssemblyInfo.cs
+G:\HARUN_YAZILIM\Projeler\eAppointment\eAppointmentServer\eAppointmentServer.Application\obj\Debug\net8.0\eAppointmentServer.Application.csproj.CoreCompileInputs.cache
+G:\HARUN_YAZILIM\Projeler\eAppointment\eAppointmentServer\eAppointmentServer.Application\obj\Debug\net8.0\eAppointmentServer.Application.dll
+G:\HARUN_YAZILIM\Projeler\eAppointment\eAppointmentServer\eAppointmentServer.Application\obj\Debug\net8.0\refint\eAppointmentServer.Application.dll
+G:\HARUN_YAZILIM\Projeler\eAppointment\eAppointmentServer\eAppointmentServer.Application\obj\Debug\net8.0\eAppointmentServer.Application.pdb
+G:\HARUN_YAZILIM\Projeler\eAppointment\eAppointmentServer\eAppointmentServer.Application\obj\Debug\net8.0\ref\eAppointmentServer.Application.dll
+G:\HARUN_YAZILIM\Projeler\eAppointment\eAppointmentServer\eAppointmentServer.Application\bin\Debug\net8.0\eAppointmentServer.Domain.dll
+G:\HARUN_YAZILIM\Projeler\eAppointment\eAppointmentServer\eAppointmentServer.Application\bin\Debug\net8.0\eAppointmentServer.Domain.pdb
+G:\HARUN_YAZILIM\Projeler\eAppointment\eAppointmentServer\eAppointmentServer.Application\obj\Debug\net8.0\eAppoint.F26F487F.Up2Date
